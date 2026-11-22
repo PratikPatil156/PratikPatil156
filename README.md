@@ -81,23 +81,71 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
 
 ---
 
-## 💼 Experience & Education
+## 💼 Professional Experience
 
-```
-💼 Star Softech (Hubli, Karnataka)
-   Junior Software Intern | Sep 2025 – Jul 2026
-   • Built responsive UI components with React.js & Tailwind CSS for enterprise applications.
-   • Integrated FastAPI REST endpoints with MySQL backend and optimized API response times.
-   • Conducted functional testing to identify edge bugs and improve system reliability.
+<table>
+  <tr>
+    <td>
+      <div align="left">
+        <a href="#experience">
+          <img src="https://img.shields.io/badge/Sep%202025%20–%20Jul%202026-00D2FF?style=for-the-badge&logo=googlecalendar&logoColor=black" alt="Duration" />
+        </a>
+        <br />
+        <h3>🏢 Star Softech &nbsp;|&nbsp; <span style="color:#00D2FF">Junior Software Intern</span></h3>
+        <p>📍 <i>Hubli, Karnataka, India</i></p>
+        
+  <ul>
+    <li>🚀 <b>Frontend Engineering:</b> Developed responsive and reusable UI components using <b>React.js</b>, <b>JavaScript (ES6+)</b>, <b>HTML5</b>, and <b>Tailwind CSS</b> for the <i>Aanchal Jewellery</i> web application.</li>
+    <li>⚡ <b>Backend & REST APIs:</b> <b>Developed and integrated REST APIs</b> using <b>FastAPI</b> for seamless asynchronous frontend-backend communication, managed database models and operations using <b>MySQL</b>, and collaborated efficiently with version control via <b>Git</b>.</li>
+    <li>🧪 <b>Testing & Reliability:</b> Conducted thorough testing across development builds to identify bugs, profile bottlenecks, and optimize system performance, delivering a more stable and dependable product.</li>
+  </ul>
+        
+  <p>
+    <b>Core Tech:</b> 
+    <code>FastAPI</code> • <code>React.js</code> • <code>Python</code> • <code>MySQL</code> • <code>Tailwind CSS</code> • <code>REST APIs</code> • <code>Git</code>
+  </p>
+      </div>
+    </td>
+  </tr>
+</table>
 
-🎓 D.Y. Patil Agriculture & Technical University (Kolhapur)
-   B.Tech in Computer Science & Engineering | 2022 – 2026
-   • CGPA: 7.8 / 10.0
+---
 
-📜 Certifications:
-   • AI, Data Science & Cloud Practitioner – SmartBridge
-   • Data Analytics Job Simulation – Deloitte
-```
+## 🎓 Education & Credentials
+
+<table>
+  <tr>
+    <td width="62%" valign="top">
+      <img src="https://img.shields.io/badge/2022%20–%202026-7928CA?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech Duration" />
+      <h3>🏛️ D.Y. Patil Agriculture & Technical University</h3>
+      <p><b>Bachelor of Technology (B.Tech) in Computer Science & Engineering</b></p>
+      <p>📍 <i>Kolhapur, Maharashtra, India</i></p>
+      <p>🎯 <b>Cumulative CGPA:</b> <code style="font-size:1.1em; color:#00D2FF;">7.8 / 10.0</code></p>
+      <hr />
+      <p><b>🏫 Prior Academics:</b></p>
+      <ul>
+        <li><b>HSC (Class XII):</b> V.N.M. Science College, Sangli &nbsp;•&nbsp; <b>63.50%</b> (2022)</li>
+        <li><b>SSC (Class X):</b> K.N.P.V. Bhavaninagar, Sangli &nbsp;•&nbsp; <b>75.60%</b> (2020)</li>
+      </ul>
+    </td>
+    <td width="38%" valign="top">
+      <img src="https://img.shields.io/badge/Verified-Certifications-00C49F?style=for-the-badge&logo=shield&logoColor=white" alt="Certifications" />
+      <br /><br />
+      <h4>🏆 Professional Honors</h4>
+      <ul>
+        <li>
+          <b>AI, Data Science & Cloud Practitioner</b><br />
+          <sub>🏛️ Issued by <b>SmartBridge</b></sub>
+        </li>
+        <br />
+        <li>
+          <b>Data Analytics Job Simulation</b><br />
+          <sub>🏛️ Issued by <b>Deloitte</b></sub>
+        </li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
