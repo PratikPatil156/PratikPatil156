@@ -115,7 +115,7 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
 
 <table>
   <tr>
-    <td width="62%" valign="top">
+    <td width="55%" valign="top">
       <img src="https://img.shields.io/badge/2022%20–%202026-7928CA?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech Duration" />
       <h3>🏛️ D.Y. Patil Agriculture & Technical University, Talsande, Kolhapur</h3>
       <p><b>Bachelor of Technology in Computer Science and Engineering</b></p>
@@ -128,24 +128,24 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
         <li><b>SSC (Class X):</b> K.N.P.V. Bhavaninagar, Sangli &nbsp;•&nbsp; <b>75.60%</b> (2020)</li>
       </ul>
     </td>
-    <td width="38%" valign="top">
+    <td width="45%" valign="top">
       <img src="https://img.shields.io/badge/Verified-Certifications-00C49F?style=for-the-badge&logo=shield&logoColor=white" alt="Certifications" />
       <br /><br />
       <h4>🏆 Certifications & Training</h4>
       <ul>
         <li>
-          <b>Artificial Intelligence Program</b><br />
-          <sub>🏛️ Issued by <b>SmartInternz</b></sub>
+          <b>Artificial Intelligence Program</b> &nbsp;•&nbsp; <b>SmartInternz</b><br />
+          <sub>Completed industry-oriented training in Artificial Intelligence, covering fundamental concepts, practical applications, and real-world use cases.</sub>
         </li>
         <br />
         <li>
-          <b>Applied Data Science Program</b><br />
-          <sub>🏛️ Issued by <b>SmartInternz</b></sub>
+          <b>Applied Data Science Program</b> &nbsp;•&nbsp; <b>SmartInternz</b><br />
+          <sub>Developed practical skills in Python-based data preprocessing, Exploratory Data Analysis (EDA), data visualization, and predictive modeling.</sub>
         </li>
         <br />
         <li>
-          <b>Data Analytics Job Simulation</b><br />
-          <sub>🏛️ Issued by <b>Deloitte</b></sub>
+          <b>Data Analytics Job Simulation</b> &nbsp;•&nbsp; <b>Deloitte</b><br />
+          <sub>Practical experience in real-world business data analytics, visualization, and strategic problem-solving.</sub>
         </li>
       </ul>
     </td>
