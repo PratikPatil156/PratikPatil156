@@ -26,7 +26,7 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
 - 🤖 **Agentic & RAG Specialist:** Experienced in multi-agent orchestration using **LangGraph**, session persistence, vector retrieval with **ChromaDB**, and **Groq LPU** inference.
 - 💻 **Full-Stack Proficiency:** Building responsive, modern frontends with **React.js & Tailwind CSS** connected to asynchronous **FastAPI** backends.
 - 💼 **Industry Experience:** Worked as a **Junior Software Intern** at **Star Softech**, engineering REST APIs and developing enterprise web application modules.
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering** at D.Y. Patil Agriculture & Technical University (CGPA: 7.9, Batch 2026).
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering** at D.Y. Patil Agriculture & Technical University (CGPA: 7.8, Batch 2026).
 - 🎯 **Looking for:** Opportunities as an **AI Engineer / Python Full-Stack Developer** where I can build and deploy intelligent, reliable AI products.
 
 ---
@@ -151,29 +151,12 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
 
 🎓 D.Y. Patil Agriculture & Technical University (Kolhapur)
    B.Tech in Computer Science & Engineering | 2022 – 2026
-   • CGPA: 7.9 / 10.0
+   • CGPA: 7.8 / 10.0
 
 📜 Certifications:
    • AI, Data Science & Cloud Practitioner – SmartBridge
    • Data Analytics Job Simulation – Deloitte
 ```
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PratikPatil156&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Pratik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PratikPatil156&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PratikPatil156&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="97%" />
-</p>
-
-</div>
 
 ---
 
