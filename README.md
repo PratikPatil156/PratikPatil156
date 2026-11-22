@@ -26,7 +26,7 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
 - 🤖 **Agentic & RAG Specialist:** Experienced in multi-agent orchestration using **LangGraph**, session persistence, vector retrieval with **ChromaDB**, and **Groq LPU** inference.
 - 💻 **Full-Stack Proficiency:** Building responsive, modern frontends with **React.js & Tailwind CSS** connected to asynchronous **FastAPI** backends.
 - 💼 **Industry Experience:** Worked as a **Junior Software Intern** at **Star Softech**, engineering REST APIs and developing enterprise web application modules.
-- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering** at D.Y. Patil Agriculture & Technical University (CGPA: 7.8, Batch 2026).
+- 🎓 **Education:** Pursuing **B.Tech in Computer Science and Engineering** at D.Y. Patil Agriculture & Technical University, Talsande, Kolhapur (CGPA: 7.8, Batch 2026).
 - 🎯 **Looking for:** Opportunities as an **AI Engineer / Python Full-Stack Developer** where I can build and deploy intelligent, reliable AI products.
 
 ---
@@ -117,10 +117,10 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
   <tr>
     <td width="62%" valign="top">
       <img src="https://img.shields.io/badge/2022%20–%202026-7928CA?style=for-the-badge&logo=academia&logoColor=white" alt="B.Tech Duration" />
-      <h3>🏛️ D.Y. Patil Agriculture & Technical University</h3>
-      <p><b>Bachelor of Technology (B.Tech) in Computer Science & Engineering</b></p>
-      <p>📍 <i>Kolhapur, Maharashtra, India</i></p>
-      <p>🎯 <b>Cumulative CGPA:</b> <code style="font-size:1.1em; color:#00D2FF;">7.8 / 10.0</code></p>
+      <h3>🏛️ D.Y. Patil Agriculture & Technical University, Talsande, Kolhapur</h3>
+      <p><b>Bachelor of Technology in Computer Science and Engineering</b></p>
+      <p>📍 <i>Maharashtra, India</i></p>
+      <p><b>CGPA:</b> 7.8</p>
       <hr />
       <p><b>🏫 Prior Academics:</b></p>
       <ul>
