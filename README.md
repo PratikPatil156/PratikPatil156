@@ -131,11 +131,16 @@ I am an **AI Engineer & Full-Stack Developer** passionate about building **Agent
     <td width="38%" valign="top">
       <img src="https://img.shields.io/badge/Verified-Certifications-00C49F?style=for-the-badge&logo=shield&logoColor=white" alt="Certifications" />
       <br /><br />
-      <h4>🏆 Professional Honors</h4>
+      <h4>🏆 Certifications & Training</h4>
       <ul>
         <li>
-          <b>AI, Data Science & Cloud Practitioner</b><br />
-          <sub>🏛️ Issued by <b>SmartBridge</b></sub>
+          <b>Artificial Intelligence Program</b><br />
+          <sub>🏛️ Issued by <b>SmartInternz</b></sub>
+        </li>
+        <br />
+        <li>
+          <b>Applied Data Science Program</b><br />
+          <sub>🏛️ Issued by <b>SmartInternz</b></sub>
         </li>
         <br />
         <li>
